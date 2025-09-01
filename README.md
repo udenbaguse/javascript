@@ -1,2 +1,2 @@
-# javascript-dasar
-Materi Javascript dasar yang akan dibahas di channel Udenbaguse
+# Javascript
+Materi Javascript yang akan dibahas di channel Udenbaguse
